@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+  <title id="title">True North Property Consulting</title>
+  <desc id="desc">A simple compass pointing north beside the True North Property Consulting name.</desc>
+  <rect width="720" height="180" fill="none"/>
+  <g transform="translate(24 18)">
+    <circle cx="72" cy="72" r="62" fill="#173f35"/>
+    <circle cx="72" cy="72" r="50" fill="none" stroke="#d7e86a" stroke-width="2" opacity=".55"/>
+    <path d="M72 8 L86 72 L72 136 L58 72 Z" fill="#d7e86a"/>
+    <path d="M72 8 L86 72 L72 72 L72 8 Z" fill="#f5f4ed" opacity=".9"/>
+    <path d="M72 30 L78 72 L72 114 L66 72 Z" fill="#173f35"/>
+    <circle cx="72" cy="72" r="7" fill="#fff"/>
+    <text x="72" y="-2" text-anchor="middle" fill="#173f35" font-family="Arial,sans-serif" font-size="16" font-weight="700">N</text>
+  </g>
+  <text x="185" y="78" fill="#173f35" font-family="Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="1">TRUE NORTH</text>
+  <text x="188" y="116" fill="#64706b" font-family="Arial,sans-serif" font-size="22" letter-spacing="3">PROPERTY CONSULTING</text>
+</svg>
