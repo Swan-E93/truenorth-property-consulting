@@ -1,0 +1,93 @@
+/* Reset some defaults */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f4f7f9;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background: #003366;
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+header h1 {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+header p {
+  font-size: 1.2rem;
+  opacity: 0.9;
+}
+
+/* Navigation */
+nav {
+  background: #004080;
+  padding: 10px;
+  text-align: center;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Sections */
+section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+section h2 {
+  margin-bottom: 15px;
+  color: #003366;
+}
+
+/* Services box */
+.services {
+  background: #eaf3f9;
+  padding: 20px;
+  border-radius: 8px;
+}
+.services ul {
+  list-style: none;
+}
+.services li {
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+a.button {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #003366;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 15px;
+}
+a.button:hover {
+  background: #0055aa;
+}
+
+/* Footer */
+footer {
+  background: #003366;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
